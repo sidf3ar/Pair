@@ -1,7 +1,7 @@
-matching-pairs
+Pairs
 ==============
 
-Matching Pairs - HTML5 Game
+Pairs - HTML5 Game
 
 Based on the old and popular mechanic of matching similar shapes to score points, Matching Pairs tests how fast
 you can do this by measuring your time taken as your score. 
